@@ -11,6 +11,7 @@
 	<groupId>com.dailylesson</groupId>
 	<artifactId>spring-data-jpa</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>spring-data-jpa</name>
 	<description>spring-data-jpa</description>
 	<properties>
